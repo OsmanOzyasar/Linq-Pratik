@@ -1,0 +1,15 @@
+C:\Users\osman\source\repos\LİNQ_Pratik\bin\Debug\net8.0\LİNQ_Pratik.exe
+C:\Users\osman\source\repos\LİNQ_Pratik\bin\Debug\net8.0\LİNQ_Pratik.deps.json
+C:\Users\osman\source\repos\LİNQ_Pratik\bin\Debug\net8.0\LİNQ_Pratik.runtimeconfig.json
+C:\Users\osman\source\repos\LİNQ_Pratik\bin\Debug\net8.0\LİNQ_Pratik.dll
+C:\Users\osman\source\repos\LİNQ_Pratik\bin\Debug\net8.0\LİNQ_Pratik.pdb
+C:\Users\osman\source\repos\LİNQ_Pratik\obj\Debug\net8.0\LİNQ_Pratik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osman\source\repos\LİNQ_Pratik\obj\Debug\net8.0\LİNQ_Pratik.AssemblyInfoInputs.cache
+C:\Users\osman\source\repos\LİNQ_Pratik\obj\Debug\net8.0\LİNQ_Pratik.AssemblyInfo.cs
+C:\Users\osman\source\repos\LİNQ_Pratik\obj\Debug\net8.0\LİNQ_Pratik.csproj.CoreCompileInputs.cache
+C:\Users\osman\source\repos\LİNQ_Pratik\obj\Debug\net8.0\LİNQ_Pratik.sourcelink.json
+C:\Users\osman\source\repos\LİNQ_Pratik\obj\Debug\net8.0\LİNQ_Pratik.dll
+C:\Users\osman\source\repos\LİNQ_Pratik\obj\Debug\net8.0\refint\LİNQ_Pratik.dll
+C:\Users\osman\source\repos\LİNQ_Pratik\obj\Debug\net8.0\LİNQ_Pratik.pdb
+C:\Users\osman\source\repos\LİNQ_Pratik\obj\Debug\net8.0\LİNQ_Pratik.genruntimeconfig.cache
+C:\Users\osman\source\repos\LİNQ_Pratik\obj\Debug\net8.0\ref\LİNQ_Pratik.dll
